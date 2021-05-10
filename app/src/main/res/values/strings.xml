@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BerlinClock</string>
+    <string name="date_format">HH:mm</string>
+</resources>
